@@ -50,7 +50,8 @@ public class Main
 }
 ```
 ## Output:-
-![image]()
+![image](https://github.com/bharathipriyan08/java-program-exp-1/assets/113762012/b8f2382c-98fe-4e8c-a086-caaf11ab4f70)
+
 
 
 ## Result:-
