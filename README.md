@@ -24,7 +24,7 @@ Stop the execution.
 #### Register Number : 212221040028
 
 java program:
-
+``
 import java.util.*;
 public class Main
 {
@@ -48,7 +48,7 @@ public class Main
         System.out.println("Modulus of "+num1+" and "+num2+" = "+mod);
     }
 }
-
+``
 ## Output:-
 
 ![238122570-27d459bb-54b2-4716-b992-ab8691043310](https://github.com/SarankumarJ/Java-Ex-01/assets/94778101/03c76619-d06a-46df-a49f-7572723a3ee9)
